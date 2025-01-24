@@ -133,11 +133,6 @@ img {
 
 @media screen and (max-width:768px) {
 
-
-    body {
-        background: red;
-    }
-
     .container {
         width: 768px;
 
